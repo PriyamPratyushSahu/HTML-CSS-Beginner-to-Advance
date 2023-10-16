@@ -1,0 +1,16 @@
+List of CSS topics
+    1. CSS Basics
+        1.1. Basic Syntax
+        1.2. Color Property
+        1.3. Including Styles
+        1.4. HTML Refresher
+        1.5. Comments
+        1.6. MDN Documentation
+        1.7. Browser Tools
+        1.8. Selectors 
+    2. Color System and Background
+    3. Text Properties
+    4. Box Model CSS
+    5. Display and Position
+    6. Flexbox, Grid & Media Queries
+    7. Animation, Transition & Transform
